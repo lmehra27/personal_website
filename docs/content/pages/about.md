@@ -1,0 +1,3 @@
+Title: About Me
+
+I am an experienced data scientist and plant disease epidemiologist with solid experience applying machine learning and statistical models to agricultural data. I have a proven track record in collaborative research, integrating domain knowledge with advanced quantitative techniques to develop predictive models aligned with business needs. I am skilled in data wrangling, utilizing generalized linear mixed models, and delivering actionable insights for strategic decision-making. I am a strong communicator with excellent oral and written skills, adept at conveying complex data-driven concepts to both technical and non-technical stakeholders. 

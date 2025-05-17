@@ -2,7 +2,7 @@ PY?=
 PELICAN?=pelican
 PELICANOPTS=
 
-BASEDIR=$(CURDIR)/docs
+BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
@@ -77,4 +77,4 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 
-.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish ssh_upload sftp_upload rsync_upload ftp_upload github
+.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish github

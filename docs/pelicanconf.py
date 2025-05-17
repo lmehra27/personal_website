@@ -20,13 +20,12 @@ LINKS = (
     ("Pelican", "https://getpelican.com/"),
     ("Python.org", "https://www.python.org/"),
     ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("github", "https://github.com/lmehra27"),
+    ("linkedin", "https://www.linkedin.com/in/luckymehra/"),
 )
 
 DEFAULT_PAGINATION = 10

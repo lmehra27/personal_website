@@ -1,6 +1,6 @@
 AUTHOR = 'Lucky Mehra'
 SITENAME = 'Lucky Mehra, PhD'
-SITEURL = ""
+SITEURL = "https://lmehra27.github.io/personal_website/"
 
 PATH = "content"
 

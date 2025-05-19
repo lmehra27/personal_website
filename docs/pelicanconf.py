@@ -16,16 +16,19 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-)
+# LINKS = (
+#     ("Pelican", "https://getpelican.com/"),
+#     ("Python.org", "https://www.python.org/"),
+#     ("Jinja2", "https://palletsprojects.com/p/jinja/"),
+# )
 
 # Social widget
 SOCIAL = (
     ("github", "https://github.com/lmehra27"),
     ("linkedin", "https://www.linkedin.com/in/luckymehra/"),
+    ("twitter", "https://twitter.com/luckymehra27"),
+    ("google-scholar", "https://scholar.google.com/citations?user=SVsJcNoAAAAJ&hl=en"),
+
 )
 
 DEFAULT_PAGINATION = 10

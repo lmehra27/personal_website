@@ -26,7 +26,6 @@ AUTHOR_FEED_RSS = None
 SOCIAL = (
     ("github", "https://github.com/lmehra27"),
     ("linkedin", "https://www.linkedin.com/in/luckymehra/"),
-    ("twitter", "https://twitter.com/luckymehra27"),
     ("google-scholar", "https://scholar.google.com/citations?user=SVsJcNoAAAAJ&hl=en"),
 
 )

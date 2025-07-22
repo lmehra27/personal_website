@@ -24,6 +24,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (
+    ("google-dev-profile", "https://g.dev/luckymehra"),
     ("github", "https://github.com/lmehra27"),
     ("linkedin", "https://www.linkedin.com/in/luckymehra/"),
     ("google-scholar", "https://scholar.google.com/citations?user=SVsJcNoAAAAJ&hl=en"),
